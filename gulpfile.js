@@ -24,7 +24,7 @@ var paths = {
         css:        'public_html/assets/css/*.css',
         js:         'public_html/assets/js/*.js',
         vendors:    'public_html/assets/vendors/**/*.*',
-        imgs:       'public_html/assets/imgs/**/*.+(png|jpg|gif|svg)',
+        imgs:       './public_html/assets/imgs/**/*.+(png|jpg|gif|svg)',
         scss:       'public_html/assets/scss/**/*.scss'
     },
     dist: {
